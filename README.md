@@ -3,7 +3,7 @@ simple task/to-do list for terminal users.
 
 # commands
 
- [COMMAND]          [DESCRIPTION]
+ [COMMAND] \t\t         [DESCRIPTION]
   qq                go back
   new task_name     add new task
   del task_number   delete task
